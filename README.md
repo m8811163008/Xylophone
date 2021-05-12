@@ -21,4 +21,4 @@
 ###تصاویر نرم افزار
 
 <img alt="app picture" src="https://github.com/m8811163008/Xylophone/blob/master/images/0.jpg?raw=true" width="300px">
-Video link with sound: https://github.com/m8811163008/Xylophone/blob/master/images/1.mp4
+Video link with sound: https://github.com/m8811163008/Xylophone/blob/master/images/1.mp4?raw=true
